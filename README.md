@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./public/header.png" alt="onedrive-vercel-index" />
-  <h3><a href="https://drive.swo.moe">onedrive-vercel-index</a></h3>
+  <img src="./public/header.png" alt="sh1mmer-vercel-index" />
+  <h3><a href="https://dl.osu.bio">sh1mmer-vercel-index</a></h3>
   <p><a href="https://ovi.swo.moe/docs/getting-started">Get started</a> · <a href="https://ovi.swo.moe/blog/whats-new">What's new?</a> · <a href="https://ovi.swo.moe/sponsor/ways">Sponsoring</a></p>
-  <p><em>OneDrive public directory listing, powered by Vercel and Next.js</em></p>
+  <p><em>SH1mmer public directory listing, powered by Vercel and Next.js</em></p>
 
   <img src="https://img.shields.io/badge/OneDrive-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="OneDrive" />
   <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
@@ -21,24 +21,6 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 - Highly customisable ⚒️
 
 🍌 More importantly, we are pretty (●'◡'●)
-
-## Quick start
-
-🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
-
-## Discussion
-
-Please go to our [discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions) for general questions and FAQs, **issues are for bug reports and bug reports only.** Feature requests may or may not be ignored, as [I (@spencerwooo)](https://spencerwoo.com) am the only one maintaining the project, so **I only prioritise features that I use.**
-
-*If you happen to like this project, please give it a star!* :3
-
-*If you really, really like this project, please send money! -> [Sponsors 🤑 and donations 💰](https://ovi.swo.moe/sponsor/ways)*
-
-## Demo
-
-Live demo at [Spencer's OneDrive](https://drive.swo.moe).
-
-![demo](./public/demo.png)
 
 ## Features
 
@@ -127,16 +109,6 @@ Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
 - [I was here before 2022, how can I migrate to the new version?](https://ovi.swo.moe/docs/migration/if-you-deployed-before-2022)
 - [I got a problem during deployment ...](https://ovi.swo.moe/docs/faqs/error-on-deployment)
 - I didn't find a solution / My problem is unique? [Find help in discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions).
-
-## Server-*less* (free)?
-
-Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, but that's free to some extent also.)
-
-## Sponsors and donations
-
-Open-source is hard! If you happen to like this project and want me to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support!
-
-[🧸 Please donate - 微信/支付宝](https://ovi.swo.moe/sponsor/ways) · [Patreon](https://www.patreon.com/spencerwoo) · [爱发电](https://afdian.net/@spencerwoo)
 
 ## License
 
