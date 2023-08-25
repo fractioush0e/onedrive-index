@@ -93,28 +93,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 > **Note**: This project is focused on showcasing and providing a way for others to download files from your OneDrive. Emphasis on **free** and **serverless**. If you have your own server / need WebDAV / use cloud providers other than OneDrive, checkout [alist](https://github.com/alist-org/alist).
 
-## Documentation
-
-Documentation is hosted at [ovi.swo.moe](https://ovi.swo.moe/).
-
-- [How can I get started and deploy?](https://ovi.swo.moe/docs/getting-started)
-- [How can I configure ... ?](https://ovi.swo.moe/docs/custom-configs)
-- Where is feature ... ?
-  - [Docs - Password protected folders](https://ovi.swo.moe/docs/features/protected-folders)
-  - [Docs - Multi-file and folder download](https://ovi.swo.moe/docs/features/multi-file-folder-download)
-  - [Docs - Hosting files (images) directly](https://ovi.swo.moe/docs/features/hosting-images-directly)
-  - [Docs - Search for files and folders](https://ovi.swo.moe/docs/features/search-for-files-and-folders)
-  - [Docs - Load video subtitles](https://ovi.swo.moe/docs/features/load-video-subtitles)
-- [I deployed this before, how can I upgrade to the latest version?](https://ovi.swo.moe/docs/migration/updating-to-latest-version)
-- [I was here before 2022, how can I migrate to the new version?](https://ovi.swo.moe/docs/migration/if-you-deployed-before-2022)
-- [I got a problem during deployment ...](https://ovi.swo.moe/docs/faqs/error-on-deployment)
-- I didn't find a solution / My problem is unique? [Find help in discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions).
-
-## License
-
-[MIT](LICENSE)
-
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://spencerwoo.com">spencer woo</a></em>
+  <em>made with ❤️ by <a href="https://osu.bio">notdarkn</a></em>
 </div>
