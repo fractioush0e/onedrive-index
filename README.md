@@ -72,7 +72,8 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
       <td>🔎 Native Search</td>
     </tr>
     <tr>
-      <td>Password protected routes and files. <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
+      <td>Password protected routes and files. 
+      <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
       <td>
         Compress and download multiple files or folders.
         <a href="https://ovi.swo.moe/docs/features/multi-file-folder-download">Details here</a>
@@ -82,14 +83,22 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
         <a href="https://ovi.swo.moe/docs/features/search-for-files-and-folders">Details here</a>
       </td>
     </tr>
+        <tr>
+      <td>🧑‍🚀 Streamlined deployment</a></td>
+      <td>⬇️ Direct raw-file hosting</a></td>
+      <td>🎨 Full website customization </td>
+    </tr>
+    <tr>
+      <td>Obtain your tokens without getting them manually anymore!
+      <td>
+       Full raw-file serving and hosting with index!
+      </td>
+      <td>
+        Full dark mod support, style, website customization, and more.
+      </td>
+    </tr>
   </tbody>
 </table>
-
-... and more:
-
-- Streamlined deployment, without having to get your tokens manually anymore!
-- Direct raw-file serving and hosting ...
-- Full dark mode support, style and website customisations ...
 
 > **Note**: This project is focused on showcasing and providing a way for others to download files from your OneDrive. Emphasis on **free** and **serverless**. If you have your own server / need WebDAV / use cloud providers other than OneDrive, checkout [alist](https://github.com/alist-org/alist).
 
