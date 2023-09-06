@@ -94,7 +94,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
        Full raw-file serving and hosting with index!
       </td>
       <td>
-        Full dark mod support, style, website customization, and more.
+        Full dark mode support, style, website customization, and more.
       </td>
     </tr>
   </tbody>
