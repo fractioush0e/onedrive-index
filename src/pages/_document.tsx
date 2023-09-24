@@ -10,7 +10,7 @@ class MyDocument extends Document {
           <meta property="og:description" content="SH1mmer: Shims" />
           <meta property="og:url" content="https://dl.osu.bio" />
           <meta property="og:type" content="website" />
-          <meta property="og:image" content="https://osu.bio/img/file.png" />
+          <meta property="og:image" content="https://osu.bio/img/sh1mmer-128.png" />
           <meta property="og:image:alt" content="SH1mmer" />
           <meta property="og:image:width" content="512" />
           <meta property="og:image:height" content="512" />
