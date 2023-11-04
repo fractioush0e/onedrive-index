@@ -14,7 +14,7 @@ class MyDocument extends Document {
           <meta property="og:image:alt" content="SH1mmer" />
           <meta property="og:image:width" content="512" />
           <meta property="og:image:height" content="512" />
-          <meta property="og:site_name" content="osu.bio" />
+          <meta property="og:site_name" content="SH1mmer" />
           <link rel="icon" href="/favicon.ico" />  
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
