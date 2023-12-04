@@ -6,6 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
           <meta property="og:title" content="Darkn's File Host" />
           <meta property="og:description" content="Another File Host" />
           <meta property="og:url" content="https://dl.osu.bio" />
