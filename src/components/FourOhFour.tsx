@@ -26,11 +26,11 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             and open devtools for more details, or seek help at{' '}
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
-              href="https://github.com/spencerwooo/onedrive-vercel-index/discussions"
+              href="https://discord.com/invite/ER8saRhYpg"
               target="_blank"
               rel="noopener noreferrer"
             >
-              onedrive-vercel-index discussions
+              Darkn's Discord
             </a>
             .
           </Trans>
