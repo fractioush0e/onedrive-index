@@ -86,7 +86,7 @@
   "of {{count}} file(s) -——loaded——other": "of {{count}} files -",
   "of {{count}} file(s) -——loading——one": "of ... file(s) -",
   "of {{count}} file(s) -——loading——other": "of ... file(s) -",
-  "<1>Four-oh-four</1>! How did you get here?": "<1>four-oh-four</1>! How did you get here?",
+  "<1>Four-oh-four</1>! How did you get here?": "<1>Four-oh-four</1>! How did you get here?",
   "Open URL": "Open URL",
   "Open URL{{url}}": "Open URL{{url}}",
   "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.": "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.",
