@@ -23,16 +23,16 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             <kbd className="rounded border border-gray-400/20 bg-gray-100 px-1 font-mono text-xs dark:bg-gray-800">
               F12
             </kbd>{' '}
-            and open devtools for more details, or seek help at{' '}
+            and open devtools for more details, or seek help in my{' '}
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
               href="https://discord.com/invite/ER8saRhYpg"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Darkn's Discord
+              Discord DMs
             </a>
-            .
+            !
           </Trans>
         </div>
       </div>
