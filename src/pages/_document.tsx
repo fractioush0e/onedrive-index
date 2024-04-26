@@ -9,9 +9,9 @@ class MyDocument extends Document {
           <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
           <meta property="og:title" content="Darkn's File Host" />
           <meta property="og:description" content="Another File Host" />
-          <meta property="og:url" content="https://dl.osu.bio" />
+          <meta property="og:url" content="https://dl.darkn.bio" />
           <meta property="og:type" content="website" />
-          <meta property="og:image" content="https://osu.bio/img/download.webp" />
+          <meta property="og:image" content="https://darkn.bio/img/download.webp" />
           <meta property="og:image:alt" content="Files" />
           <meta property="og:image:width" content="512" />
           <meta property="og:image:height" content="512" />
