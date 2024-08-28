@@ -1,6 +1,6 @@
 <div align="center">
   <h1>onedrive-index has moved!</h1>
-  I am no longer going to be using this version of the OneDrive Index, instead I have switched to <a href="https://github.com/lyc8503/onedrive-cf-index-ng">onedrive-cf-index-ng></a>. <br />
+  I have switched to <a href="https://github.com/lyc8503/onedrive-cf-index-ng">onedrive-cf-index-ng></a> and will no longer use the Vercel version.<br />
     Want to see the repo for yourself? Check it <a href="https://github.com/NotDarkn/website-filehost">here!</a>
 <hr />
 </div>
