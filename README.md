@@ -1,4 +1,11 @@
 <div align="center">
+  <h1>onedrive-index has moved!</h1>
+  I am no longer going to be using this version of the OneDrive Index, instead I have switched to <a href="https://github.com/lyc8503/onedrive-cf-index-ng">onedrive-cf-index-ng></a>. <br />
+    Want to see the repo for yourself? Check it <a href="https://github.com/NotDarkn/website-filehost">here!</a>
+<hr />
+</div>
+
+<div align="center">
   <img src="./public/header.png" alt="sh1mmer-vercel-index" />
   <h3><a href="https://dl.osu.bio">darkn-index</a></h3>
   <p><a href="https://ovi.swo.moe/docs/getting-started">Get started</a> · <a href="https://ovi.swo.moe/blog/whats-new">What's new?</a> · <a href="https://ovi.swo.moe/sponsor/ways">Sponsoring</a></p>
